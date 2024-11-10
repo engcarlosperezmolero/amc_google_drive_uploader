@@ -1,0 +1,5 @@
+protobuf~=5.28.3
+google-auth-oauthlib~=1.2.1
+google-api-python-client~=2.151.0
+pillow~=11.0.0
+tkmacosx~=1.0.5

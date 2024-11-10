@@ -1,0 +1,20 @@
+# carpeta de distribucion
+build/
+dist/
+
+# entornos virtuales
+venv*/
+.venv*/
+
+# archivos spec
+*.spec
+
+# archivos locales
+*.pyc
+.DS_Store
+.idea/
+__pycache__/
+
+# secretos
+client_secret*.json
+reusable_token.json

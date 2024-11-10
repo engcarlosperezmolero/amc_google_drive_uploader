@@ -1,0 +1,8 @@
+{
+  "monitored_folder_path": "/Users/charlymolero/Desktop/tests",
+  "check_folder_interval_seconds": 10,
+  "file_types_to_monitor": [".mp4", ".png", ".jpg", ".jpeg", ".txt"],
+  "credentials_path": "/config/client_secrets.json",
+  "reusable_token_path": "/config/reusable_token.json",
+  "drive_target_folder_id": "1R3tTlcFcuAjbHtHnXPf6geOygNgqBu1H"
+}
